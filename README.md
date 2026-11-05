@@ -1,5 +1,12 @@
 # learning-github
-Iam Golla sameera Iam persuing btech 3rd year in Vasireddy Venkatadri Institute of Technology,guntur.My hobbies are listening music,reading novels and learning new things...
+HI,Iam Golla Sameera.
+
+Iam pursuing B.Tech 3rd year in Vasireddy Venkatadri Institute of Technology,Guntur.
+
+My hobbies are listening to music, reading novels and learning new things...
+### What Iam learning now is:
+-DSA;
+-Preparing for Gate Exam
 
 
 
