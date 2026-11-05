@@ -5,7 +5,7 @@ Iam pursuing B.Tech 3rd year in Vasireddy Venkatadri Institute of Technology,Gun
 
 My hobbies are listening to music, reading novels and learning new things...
 ### What Iam learning now is:
--DSA;
+-DSA
 -Preparing for Gate Exam
 
 
